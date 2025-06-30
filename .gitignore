@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+.env.bak/
+*.env
+
+# VS Code settings
+.vscode/
+
+# Mac and Windows junk files
+.DS_Store
+Thumbs.db
+
+# Data files (optional - keep only if you don't want to commit local datasets)
+*.csv
+*.tsv
+*.zip
+*.h5
+*.npy
+*.npz
+
+# Logs
+*.log
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+
+# System files
+*.swp
+*~
+
+# Environment & dependency files backup
+Pipfile.lock
+poetry.lock
+
+# Generated visuals
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Jupyter Notebook hidden state
+.jupyter/
