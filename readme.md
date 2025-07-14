@@ -21,6 +21,10 @@ This repository contains all coursework, mini-projects, assignments, and experim
 
 [Project 1](https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv)
 
+[Project 2](Datasets/food_delivery.csv)
+
+[Project 3](Datasets/diabetes.csv)
+
 ## 🧠 Topics Covered
 
 - Supervised Learning
@@ -56,8 +60,6 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
-> Or use `environment.yml` if using conda.
-
 ## 📝 Usage
 
 Each subfolder contains:
@@ -70,7 +72,7 @@ Each subfolder contains:
 Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/Machine-Learning-and-Pattern-Recognition.git
+git clone https://github.com/KavyaJP/Machine-Learning-and-Pattern-Recognition.git
 cd Machine-Learning-and-Pattern-Recognition
 ```
 
