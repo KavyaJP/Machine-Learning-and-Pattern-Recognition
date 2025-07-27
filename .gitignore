@@ -22,14 +22,6 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Data files (optional - keep only if you don't want to commit local datasets)
-*.csv
-*.tsv
-*.zip
-*.h5
-*.npy
-*.npz
-
 # Logs
 *.log
 

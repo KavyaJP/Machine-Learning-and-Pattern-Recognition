@@ -25,6 +25,8 @@ This repository contains all coursework, mini-projects, assignments, and experim
 
 [Project 3](Datasets/diabetes.csv)
 
+[Project 4](Datasets/online_shoppers_intention.csv)
+
 ## 🧠 Topics Covered
 
 - Supervised Learning
