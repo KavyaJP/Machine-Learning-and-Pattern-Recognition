@@ -82,17 +82,6 @@ cd Machine-Learning-and-Pattern-Recognition
 
 Explore any folder and run the scripts or notebooks.
 
-## 📊 Sample Results
-
-Include graphs or screenshots here if desired (e.g., confusion matrix, clustering plots, etc.).
-
-## 📚 References
-
-- Course Textbook(s)
-- Research Papers (if any were used)
-- [scikit-learn Documentation](https://scikit-learn.org/stable/)
-- Lecture Slides / Notes (if permissible to include)
-
 ## 📩 Contact
 
 For any questions or suggestions, feel free to reach out:
