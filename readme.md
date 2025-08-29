@@ -29,6 +29,10 @@ This repository contains all coursework, mini-projects, assignments, and experim
 
 [Project 5](Datasets/AdvertisingBudgetAndSales.csv)
 
+[Project 6](Datasets/census.csv)
+
+[Project 7](Datasets/titanic.csv)
+
 ## 🧠 Topics Covered
 
 - Supervised Learning
